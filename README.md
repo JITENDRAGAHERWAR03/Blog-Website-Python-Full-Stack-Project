@@ -15,5 +15,13 @@ A full-stack blog application built using Python Flask, SQLite, HTML, and CSS.
 - HTML/CSS
 
 ## Run Locally
-pip install -r requirements.txt  
+```
+pip install -r requirements.txt
+```
+```  
 python app.py
+```
+Open browser:
+```
+http://127.0.0.1:5000/
+```
