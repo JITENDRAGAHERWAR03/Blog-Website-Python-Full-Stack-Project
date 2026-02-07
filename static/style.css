@@ -79,3 +79,18 @@ button:hover {
     transform: translateY(-2px);
     box-shadow: 0 8px 20px rgba(37,99,235,0.3);
 }
+.subtitle {
+    color: #6b7280;
+    margin-bottom: 20px;
+}
+
+label {
+    font-weight: 600;
+    margin-top: 10px;
+    display: block;
+}
+
+textarea {
+    resize: vertical;
+    min-height: 180px;
+}
