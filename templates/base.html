@@ -1,18 +1,37 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+    <meta charset="UTF-8">
     <title>My Blog</title>
+
+    <!-- Responsive -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- CSS -->
     <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
 </head>
 <body>
+
+    <!-- Navbar -->
     <nav>
-        <h2>📝 My Blog</h2>
-        <a href="/">Home</a>
-        <a href="/create">Create Post</a>
+        <div class="nav-left">
+            <h2>📝 My Blog</h2>
+        </div>
+        <div class="nav-right">
+            <a href="/">Home</a>
+            <a href="/create">Create Post</a>
+        </div>
     </nav>
 
-    <div class="container">
+    <!-- Main Content -->
+    <main class="container">
         {% block content %}{% endblock %}
-    </div>
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <p>© 2026 My Blog · Built with Flask</p>
+    </footer>
+
 </body>
 </html>
