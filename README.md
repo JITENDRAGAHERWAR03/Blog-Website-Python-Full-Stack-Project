@@ -55,3 +55,8 @@ Comments system
 Deployment on Render / Vercel
 
 ---
+👨‍💻 Author
+
+Jitendra Gaherwar
+B.Tech IT | Python Full Stack Developer
+Focused on building practical and beginner-friendly projects 🚀
