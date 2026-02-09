@@ -32,3 +32,14 @@ You can add screenshots or a GIF of the running application here
 (Highly recommended for better GitHub visibility)
 
 ---
+🎯 Learning Outcomes
+
+Flask app structure
+
+Routing & templates
+
+SQLite database handling
+
+Full-stack project workflow
+
+---
