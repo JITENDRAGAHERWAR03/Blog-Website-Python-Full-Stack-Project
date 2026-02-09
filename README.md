@@ -24,10 +24,11 @@ cd Blog-Website-Python-Full-Stack-Project
 ```
 pip install -r requirements.txt
 ```
+3️⃣ Run the application
 ```  
 python app.py
 ```
-Open browser:
+4️⃣ Open browser:
 ```
 http://127.0.0.1:5000/
 ```
