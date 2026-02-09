@@ -15,6 +15,12 @@ A full-stack blog application built using Python Flask, SQLite, HTML, and CSS.
 - HTML/CSS
 
 ## Run Locally
+1️⃣ Clone the repository
+```
+git clone https://github.com/your-username/Blog-Website-Python-Full-Stack-Project.git
+cd Blog-Website-Python-Full-Stack-Project
+```
+2️⃣ Install dependencies
 ```
 pip install -r requirements.txt
 ```
