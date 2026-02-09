@@ -43,3 +43,15 @@ SQLite database handling
 Full-stack project workflow
 
 ---
+
+🙌 Future Improvements
+
+User authentication
+
+Edit & delete posts
+
+Comments system
+
+Deployment on Render / Vercel
+
+---
