@@ -33,12 +33,6 @@ python app.py
 http://127.0.0.1:5000/
 ```
 ---
-📸 Preview
-
-You can add screenshots or a GIF of the running application here
-(Highly recommended for better GitHub visibility)
-
----
 🎯 Learning Outcomes
 
 Flask app structure
