@@ -59,5 +59,5 @@ Deployment on Render / Vercel
 👨‍💻 Author
 
 Jitendra Gaherwar
-B.Tech IT | Python Full Stack Developer
+B.Tech IT | Python Full Stack Developer|Data anlyasis
 Focused on building practical and beginner-friendly projects 🚀
